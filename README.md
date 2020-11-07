@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/isaias0rt0n/agenda-contatos/blob/main/README.md#flying_saucer-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-assunto">Assuntos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/isaias0rt0n/agenda-contatos/blob/main/README.md#bookmark_tabs-assuntos">Assuntos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-referencia">Referências</a>
 </p>
 <br>
