@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://github.com/isaias0rt0n/agenda-contatos/blob/main/README.md#flying_saucer-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/isaias0rt0n/agenda-contatos/blob/main/README.md#bookmark_tabs-assuntos">Assuntos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-referencia">Referências</a>
+  <a href="https://github.com/isaias0rt0n/agenda-contatos/blob/main/README.md#open_file_folder-refer%C3%AAncia">Referências</a>
 </p>
 <br>
 
