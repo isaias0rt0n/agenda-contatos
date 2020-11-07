@@ -26,4 +26,6 @@ Nesse projeto foi desenvolvido uma agenda de contatos que irá salvar e pesquisa
 ## :open_file_folder: Referência
 
 Projeto feito no curso da solyd treinamentos. Um curso totalmente prático de python, abordando de conceitos básicos até mais avançado. <br><br>
-:pushpin:[Solyd](https://solyd.com.br/)
+:pushpin:[Solyd](https://solyd.com.br/) <br><br>
+
+<p align="center">:white_check_mark: By Isaias Orton</p>
